@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/adrian/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Demo Hugo Website | First Demo Hugo E-commerce website"
 theme = "adrian-hugo"
