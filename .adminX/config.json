@@ -1,0 +1,13 @@
+{
+  "media": {
+    "root": "content",
+    "public": "archetypes"
+  },
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": [
+    "config"
+  ],
+  "arrangement": {}
+}
