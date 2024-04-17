@@ -11,23 +11,23 @@
   ],
   "arrangement": {
     "content/contact": {
-      "weight": 1
+      "weight": 0
     },
     "content/about": {
-      "weight": 2
+      "weight": 1
     },
     "content/faq": {
-      "weight": 3
+      "weight": 2
     },
     "content/search": {
-      "weight": 4
+      "weight": 3
     },
     "content/shop": {
       "weight": 5
     },
     "HHHH": {
       "type": "heading",
-      "weight": 0
+      "weight": 4
     }
   }
 }
