@@ -24,6 +24,9 @@
     },
     "content/shop": {
       "weight": 4
+    },
+    "HHHH": {
+      "type": "heading"
     }
   }
 }
