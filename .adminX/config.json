@@ -11,22 +11,23 @@
   ],
   "arrangement": {
     "content/contact": {
-      "weight": 0
-    },
-    "content/about": {
       "weight": 1
     },
-    "content/faq": {
+    "content/about": {
       "weight": 2
     },
-    "content/search": {
+    "content/faq": {
       "weight": 3
     },
-    "content/shop": {
+    "content/search": {
       "weight": 4
     },
+    "content/shop": {
+      "weight": 5
+    },
     "HHHH": {
-      "type": "heading"
+      "type": "heading",
+      "weight": 0
     }
   }
 }
