@@ -9,5 +9,21 @@
   "themeConfig": [
     "config.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/contact": {
+      "weight": 0
+    },
+    "content/about": {
+      "weight": 1
+    },
+    "content/faq": {
+      "weight": 2
+    },
+    "content/search": {
+      "weight": 3
+    },
+    "content/shop": {
+      "weight": 4
+    }
+  }
 }
