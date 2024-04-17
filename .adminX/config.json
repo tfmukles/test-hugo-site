@@ -1,13 +1,13 @@
 {
   "media": {
-    "root": "content",
-    "public": "archetypes"
+    "root": "static/images",
+    "public": "static/images"
   },
   "content": {
     "root": "content"
   },
   "themeConfig": [
-    "config"
+    "config.toml"
   ],
   "arrangement": {}
 }
