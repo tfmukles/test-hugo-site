@@ -9,5 +9,13 @@
   "themeConfig": [
     "config.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/shop": {
+      "Pages": {
+        "weight": 0,
+        "include": "",
+        "exclude": ""
+      }
+    }
+  }
 }
