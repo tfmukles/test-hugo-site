@@ -8,7 +8,7 @@ disqusShortname = "adrian"
 googleAnalytics = ""
 
 [outputs]
-home = [ "HTML", "AMP", "RSS", "JSON" ]
+home = [ "HTML" ]
 
 [taxonomies]
 category = "categories"
