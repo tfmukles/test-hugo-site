@@ -1,0 +1,89 @@
+{
+  "file": "content/shop/black-tops.md",
+  "name": "shop",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "Date",
+      "value": "",
+      "isRequired": true
+    },
+    {
+      "label": "Draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "BgImage",
+      "name": "bgImage",
+      "type": "media",
+      "value": ""
+    },
+    {
+      "label": "Images",
+      "name": "images",
+      "type": "gallery"
+    },
+    {
+      "label": "Price",
+      "name": "price",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "PriceBefore",
+      "name": "priceBefore",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Categories",
+      "name": "categories",
+      "type": "Array"
+    },
+    {
+      "label": "Colors",
+      "name": "colors",
+      "type": "Array"
+    },
+    {
+      "label": "Sizes",
+      "name": "sizes",
+      "type": "Array"
+    },
+    {
+      "label": "ProductWeight",
+      "name": "productWeight",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Dimensions",
+      "name": "dimensions",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Materials",
+      "name": "materials",
+      "type": "string",
+      "value": ""
+    }
+  ]
+}
