@@ -1,0 +1,38 @@
+{
+  "file": "content/contact/_index.md",
+  "name": "contact",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title11",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "Date",
+      "value": ""
+    },
+    {
+      "label": "Draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "BgImage",
+      "name": "bgImage",
+      "type": "media",
+      "value": ""
+    }
+  ]
+}
