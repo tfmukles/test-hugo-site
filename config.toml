@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Demo Hugo Website | First Demo Hugo E-commerce website"
+title = "Demo Hugo Website"
 theme = ""
 summaryLength = "20"
 paginate = 6
