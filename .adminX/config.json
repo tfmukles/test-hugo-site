@@ -9,5 +9,10 @@
   "themeConfig": [
     "config.toml"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "Pages": {
+      "type": "heading",
+      "weight": 0
+    }
+  }
 }
