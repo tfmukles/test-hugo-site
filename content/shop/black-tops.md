@@ -3,7 +3,7 @@ title: Black Tops
 date: 2019-11-25T07:39:07.000Z
 draft: true
 description: Nice and classy look tops for every girl.
-bgImage: images/backgrounds/header-bg.jpg
+bgImage: /images/about/cat-1.jpg
 images:
   - images/products/tops-1.jpg
   - images/products/tops-2.jpg
